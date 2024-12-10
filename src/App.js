@@ -1,4 +1,3 @@
-// src/App.js
 import React from 'react';
 import MovieSearch from './MovieSearch';
 import './App.css';
